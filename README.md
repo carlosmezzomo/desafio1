@@ -38,9 +38,6 @@ Este projeto não possui outras dependências externas.
 📥 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-📜 Licença
-Este projeto está sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
 📧 Contato
 Para dúvidas ou sugestões, entre em contato:
 
